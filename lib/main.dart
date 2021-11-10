@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:lecture_2_hometask_starter/constants.dart';
 import 'package:lecture_2_hometask_starter/hash_calculator/heavy_task_performer.dart';
-import 'package:lecture_2_hometask_starter/hash_calculator/main_isolate_task_performer.dart';
 import 'package:lecture_2_hometask_starter/hash_calculator/spawned_isolate_task_performer.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+class CounterCubit extends Cubit<int> {
+  CounterCubit() : super(DefaultIterationsCount);
+
+  void changeIterationsCount(int newCount) => emit(newCount);
+}
 
 void main() {
   runApp(
     MyApp(
-      taskPerformer:   SpawnedIsolateTaskPerformer(),
+      taskPerformer: SpawnedIsolateTaskPerformer(),
     ),
   );
 }
@@ -26,9 +33,12 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(
-        title: 'Flutter Demo Home Page',
-        taskPerformer: taskPerformer,
+      home: BlocProvider(
+        create: (_) => CounterCubit(),
+        child: MyHomePage(
+          title: 'Flutter Demo Home Page',
+          taskPerformer: taskPerformer,
+        ),
       ),
     );
   }
@@ -64,33 +74,80 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
+              Text('Please fill in the iterations count'),
+              FormWidget(),
               Text(
                 'Heavy task result is equal to: $heavyTaskResult',
                 textAlign: TextAlign.center,
               ),
               isPerformingTask
                   ? const CircularProgressIndicator()
-                  : ElevatedButton(
-                      onPressed: () async {
-                        setState(() {
-                          isPerformingTask = true;
-                          heavyTaskResult = '';
-                        });
+                  : BlocBuilder<CounterCubit, int>(
+                      builder: (context, count) => ElevatedButton(
+                            onPressed: () async {
+                              setState(() {
+                                isPerformingTask = true;
+                                heavyTaskResult = '';
+                              });
 
-                        final taskResult =
-                            await widget.taskPerformer.doSomeHeavyWork();
+                              final taskResult = await widget.taskPerformer
+                                  .doSomeHeavyWork(count);
 
-                        setState(() {
-                          isPerformingTask = false;
-                          heavyTaskResult = taskResult;
-                        });
-                      },
-                      child: const Text('Perform Heavy Task'),
-                    ),
+                              setState(() {
+                                isPerformingTask = false;
+                                heavyTaskResult = taskResult;
+                              });
+                            },
+                            child: const Text('Perform Heavy Task'),
+                          )),
+              ElevatedButton(
+                  onPressed: () {
+                    widget.taskPerformer.terminateSomeHeavyWork();
+                  },
+                  child: const Text('Stop Heavy Task'))
             ],
           ),
         ),
       ),
+    );
+  }
+}
+
+class FormWidget extends StatefulWidget {
+  const FormWidget({Key? key}) : super(key: key);
+
+  @override
+  _FormWidgetState createState() => _FormWidgetState();
+}
+
+class _FormWidgetState extends State<FormWidget> {
+  final _formKey = GlobalKey<FormState>();
+
+  @override
+  Widget build(BuildContext context) {
+    return Form(
+      key: this._formKey,
+      child: Column(children: <Widget>[
+        TextFormField(
+            initialValue: DefaultIterationsCount.toString(),
+            onSaved: (value) => context
+                .read<CounterCubit>()
+                .changeIterationsCount(int.parse(value!))),
+        ElevatedButton(
+          style: ButtonStyle(
+            backgroundColor:
+                MaterialStateProperty.all<Color>(Colors.deepPurpleAccent),
+          ),
+          child: Text('Submit'),
+          onPressed: () {
+            if (this._formKey.currentState!.validate()) {
+              setState(() {
+                this._formKey.currentState!.save();
+              });
+            }
+          },
+        ),
+      ]),
     );
   }
 }
