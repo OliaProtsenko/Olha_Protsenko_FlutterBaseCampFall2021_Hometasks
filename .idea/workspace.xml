@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ef8da11-a0ee-43f2-8aeb-5fe1fef8d05d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lecture_3_bloc" />
+        <entry key="$PROJECT_DIR$" value="lecture_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636888494502</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add starter project">
+      <created>1636889180077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636889180077</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implement add_edit_screen">
+      <created>1636897809096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636897809096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -152,6 +163,7 @@
     <MESSAGE value="Implement the redux pattern&#10;1. Provide iterationsCount from UI(not default value)&#10;2. Add button “Stop Heavy Task” to terminate operation&#10;3. Then the task is stopped and displays “Stopped” instead of the generated String." />
     <MESSAGE value="Implement the BLoC pattern&#10;1. Provide iterationsCount from UI(not default value)&#10;2. Add button “Stop Heavy Task” to terminate operation&#10;3. Then the task is stopped and displays “Stopped” instead of the generated String." />
     <MESSAGE value="add starter project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add starter project" />
+    <MESSAGE value="Implement add_edit_screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement add_edit_screen" />
   </component>
 </project>
