@@ -6,3 +6,4 @@ export './loading_indicator.dart';
 export './stats.dart';
 export './tab_selector.dart';
 export './todo_item.dart';
+export './tab_bar_item.dart';
