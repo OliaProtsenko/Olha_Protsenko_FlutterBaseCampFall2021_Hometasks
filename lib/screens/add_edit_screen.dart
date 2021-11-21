@@ -51,13 +51,13 @@ class _AddEditScreenState extends State<AddEditScreen> {
                     hintStyle: textTheme.headline5, // border: ,
                     hintText: "What needs to be done?"),
               ),
-             TextFormField(
+              TextFormField(
                 onSaved: (String value) {
                   _note = value;
                 },
                 decoration: InputDecoration(
-                  //  border: InputBorder.none,
-                  contentPadding: const EdgeInsets.only(bottom:200.0),
+                    //  border: InputBorder.none,
+                    contentPadding: const EdgeInsets.only(bottom: 200.0),
                     hintStyle: textTheme.subtitle1, // border: ,
                     hintText: "Additional Notes..."),
               ),
@@ -66,17 +66,17 @@ class _AddEditScreenState extends State<AddEditScreen> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed:(){
-      if (_formKey.currentState.validate()) {
-      _formKey.currentState.save();
-      print("New task: "+_task);
-      print("Annotations: "+_note); }},
-      child:const Icon(
-       Icons.add,
-      ) ,
-
+        onPressed: () {
+          if (_formKey.currentState.validate()) {
+            _formKey.currentState.save();
+            print("New task: " + _task);
+            print("Annotations: " + _note);
+          }
+        },
+        child: const Icon(
+          Icons.add,
+        ),
       ),
     );
-
   }
 }

@@ -10,7 +10,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ef8da11-a0ee-43f2-8aeb-5fe1fef8d05d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/6df637f1141e503688b7e656ae0a8dfd/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helpers/mocks.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helpers/mocks.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/add_edit_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/add_edit_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/filtered_todos.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/filtered_todos.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/widgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/widgets.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/todos_app_core/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/todos_app_core/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +56,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lecture_4" />
+        <entry key="$PROJECT_DIR$" value="lecture_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +80,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/lecture-5_navigation-part_6_nested-navigators-example-2" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -154,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636995681415</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="start">
+      <created>1637138278338</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637138278338</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -171,6 +206,7 @@
     <MESSAGE value="Implement the BLoC pattern&#10;1. Provide iterationsCount from UI(not default value)&#10;2. Add button “Stop Heavy Task” to terminate operation&#10;3. Then the task is stopped and displays “Stopped” instead of the generated String." />
     <MESSAGE value="add starter project" />
     <MESSAGE value="Implement add_edit_screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement add_edit_screen" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>
