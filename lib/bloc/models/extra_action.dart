@@ -1,1 +1,1 @@
-enum ExtraAction { clearCompleted }
+enum ExtraAction { clearCompleted, signOut }
