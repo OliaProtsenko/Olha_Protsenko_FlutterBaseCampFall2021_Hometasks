@@ -28,6 +28,8 @@ dependencies:
   flutter_bloc: ^7.3.0
   floor: ^1.1.0
   provider: ^6.0.0
+  sqflite:
+  path_provider:
   todos_app_core:
     path: packages/todos_app_core/
 
