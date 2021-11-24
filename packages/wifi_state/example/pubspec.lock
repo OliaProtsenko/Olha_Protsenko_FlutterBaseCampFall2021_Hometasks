@@ -49,7 +49,7 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.3"
+    version: "1.0.4"
   fake_async:
     dependency: transitive
     description:
@@ -152,7 +152,7 @@ packages:
   wifi_state:
     dependency: "direct main"
     description:
-      path: "packages/wifi_state"
+      path: ".."
       relative: true
     source: path
     version: "0.0.1"
