@@ -1,0 +1,6 @@
+com/example/wifi_state/BuildConfig.java
+ com.example.wifi_state.BuildConfig
+com/example/wifi_state/WifiStatePlugin.java
+ com.example.wifi_state.WifiStatePlugin
+ com.example.wifi_state.WifiStatePlugin$1
+ com.example.wifi_state.WifiStatePlugin$2

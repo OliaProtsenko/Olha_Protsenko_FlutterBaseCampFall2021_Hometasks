@@ -1,0 +1,6 @@
+com/example/wifi_state_example/BuildConfig.java
+ com.example.wifi_state_example.BuildConfig
+com/example/wifi_state_example/MainActivity.java
+ com.example.wifi_state_example.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant

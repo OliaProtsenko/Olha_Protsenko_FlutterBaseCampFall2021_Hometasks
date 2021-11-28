@@ -1,0 +1,4 @@
+#Wed Nov 24 23:34:55 EET 2021
+base.0=E\:\\flutter\\base_camp\\wifi_state\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
