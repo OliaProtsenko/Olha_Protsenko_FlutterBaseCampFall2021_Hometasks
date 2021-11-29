@@ -1,4 +1,3 @@
-import 'package:campnotes/auth/UserModel.dart';
 import 'package:campnotes/auth/auth_cubit.dart';
 import 'package:campnotes/auth/sign_up/sign_up_event.dart';
 import 'package:campnotes/auth/sign_up/sign_up_state.dart';
@@ -32,19 +31,14 @@ class SignUpBloc extends Bloc<SignUpEvent, SignUpState> {
       yield state.copyWith(formStatus: FormSubmitting());
 
       try {
-        int id = await authRepo.signUp(
+        final user = await authRepo.signUp(
           username: state.username,
           email: state.email,
           password: state.password,
         );
         yield state.copyWith(formStatus: SubmissionSuccess());
-        final credentials = new UserModel(
-          username: state.username,
-          email: state.email,
-          password: state.password,
-          userId: id.toString(),
-        );
-        authCubit.launchSession(credentials);
+
+        authCubit.launchSession(user);
       } catch (e) {
         yield state.copyWith(formStatus: SubmissionFailed(e));
       }

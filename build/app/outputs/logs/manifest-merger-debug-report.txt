@@ -5,21 +5,45 @@ INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometa
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:1:1-47:12
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:sqflite] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6af24134d7cf24ffa28e3181d87111a9\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49f2511abe3aeb22f2bdd1d62934bc70\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\044556e43947b47c575d794fe551559d\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\219b2ee541345dc3e4658f46c0786248\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\fa4b17200623d9768c5db68d2dd045b9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1bc5244c2134121a69b689791aeb6fba\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\691e545148c942b46a9ea7df0ac4a212\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\2663ef67b60af882b8d098dc7fdf754b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\786d747d273092169ad0d861f09c5f4a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f6062496fcd03ba977ea02ce7a40e7f6\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ee3b6277e2cde1b3fee4f55bea1b8dec\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d588693c1eab2bbdd851663893afa2fc\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1f3d78cca362f7307a9233a700004301\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6b3a54d64dc0e9ff934515f1e72e6102\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5394fd3380a2ef016b604910f732d015\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\641d33746940d9440c3ff4f8b036c5f9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d8642fcb13e5eb3ecccf22a637a8dc2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a51b807f023bcf1f5dd313e0b6915419\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f2a38158f96bbbf8199031e3fad53a4b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\7680768157d10b36eaa1509f1161a1cb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eb1b7ef98fde677ffc5d20b612c0cdb7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\681e7553635d5dc3e762ca20659b2458\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6f785f1333dfeb885213a3c57af48de2\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0bd4a55f4915791f5e3ba183b5ceb49e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\dfc75807d66d5f22346ddffedf00ae57\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eebac2f5c2503f79614de57a00b4b6a3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ebda922f47eddd99706b58274240f74d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a7edee88592f00027830aa2495de5509\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\8ad219af613c32388b61d443a8770750\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef168ec28218de50c5e0cbc4273ef454\print-1.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -39,12 +63,30 @@ INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometa
 		ADDED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:8:5-46:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6af24134d7cf24ffa28e3181d87111a9\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6af24134d7cf24ffa28e3181d87111a9\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\044556e43947b47c575d794fe551559d\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\044556e43947b47c575d794fe551559d\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\219b2ee541345dc3e4658f46c0786248\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\219b2ee541345dc3e4658f46c0786248\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\dfc75807d66d5f22346ddffedf00ae57\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\dfc75807d66d5f22346ddffedf00ae57\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml:10:9-34
 	android:icon
@@ -97,36 +139,84 @@ uses-sdk
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6af24134d7cf24ffa28e3181d87111a9\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6af24134d7cf24ffa28e3181d87111a9\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49f2511abe3aeb22f2bdd1d62934bc70\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\49f2511abe3aeb22f2bdd1d62934bc70\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\044556e43947b47c575d794fe551559d\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\044556e43947b47c575d794fe551559d\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\219b2ee541345dc3e4658f46c0786248\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\219b2ee541345dc3e4658f46c0786248\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\fa4b17200623d9768c5db68d2dd045b9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\fa4b17200623d9768c5db68d2dd045b9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1bc5244c2134121a69b689791aeb6fba\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1bc5244c2134121a69b689791aeb6fba\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\691e545148c942b46a9ea7df0ac4a212\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\691e545148c942b46a9ea7df0ac4a212\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\2663ef67b60af882b8d098dc7fdf754b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\2663ef67b60af882b8d098dc7fdf754b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\786d747d273092169ad0d861f09c5f4a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\786d747d273092169ad0d861f09c5f4a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f6062496fcd03ba977ea02ce7a40e7f6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f6062496fcd03ba977ea02ce7a40e7f6\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ee3b6277e2cde1b3fee4f55bea1b8dec\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ee3b6277e2cde1b3fee4f55bea1b8dec\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d588693c1eab2bbdd851663893afa2fc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d588693c1eab2bbdd851663893afa2fc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1f3d78cca362f7307a9233a700004301\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\1f3d78cca362f7307a9233a700004301\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6b3a54d64dc0e9ff934515f1e72e6102\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6b3a54d64dc0e9ff934515f1e72e6102\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5394fd3380a2ef016b604910f732d015\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5394fd3380a2ef016b604910f732d015\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\641d33746940d9440c3ff4f8b036c5f9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\641d33746940d9440c3ff4f8b036c5f9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d8642fcb13e5eb3ecccf22a637a8dc2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\d8642fcb13e5eb3ecccf22a637a8dc2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\69784da478943609b5b5764829a73adc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a51b807f023bcf1f5dd313e0b6915419\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a51b807f023bcf1f5dd313e0b6915419\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f2a38158f96bbbf8199031e3fad53a4b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\f2a38158f96bbbf8199031e3fad53a4b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\7680768157d10b36eaa1509f1161a1cb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\7680768157d10b36eaa1509f1161a1cb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eb1b7ef98fde677ffc5d20b612c0cdb7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eb1b7ef98fde677ffc5d20b612c0cdb7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\681e7553635d5dc3e762ca20659b2458\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\681e7553635d5dc3e762ca20659b2458\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6f785f1333dfeb885213a3c57af48de2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\6f785f1333dfeb885213a3c57af48de2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0bd4a55f4915791f5e3ba183b5ceb49e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\0bd4a55f4915791f5e3ba183b5ceb49e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\dfc75807d66d5f22346ddffedf00ae57\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\dfc75807d66d5f22346ddffedf00ae57\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eebac2f5c2503f79614de57a00b4b6a3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\eebac2f5c2503f79614de57a00b4b6a3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ebda922f47eddd99706b58274240f74d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ebda922f47eddd99706b58274240f74d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a7edee88592f00027830aa2495de5509\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\a7edee88592f00027830aa2495de5509\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\8ad219af613c32388b61d443a8770750\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\8ad219af613c32388b61d443a8770750\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef168ec28218de50c5e0cbc4273ef454\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\ef168ec28218de50c5e0cbc4273ef454\print-1.0.0\AndroidManifest.xml:20:5-44
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml
 INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -137,5 +227,133 @@ INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometa
 		INJECTED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] E:\flutter\base_camp\Olha_Protsenko_FlutterBaseCampFall2021_Hometasks\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\27e78e4f333b338cf30f9cf04ec5f2c6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\c356212d48c620a4394ac1b02c088c94\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\06a3d36a20a1f9e24219b2f5e9e6973e\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\SAMSUNG NP870Z5G\.gradle\caches\transforms-2\files-2.1\5ec9da15f8bbca1e26dea10cc699c43c\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58

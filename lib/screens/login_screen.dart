@@ -47,11 +47,11 @@ class LoginScreen extends StatelessWidget {
         obscureText: true,
         decoration: InputDecoration(
           icon: Icon(Icons.security),
-          hintText: "Username",
+          hintText: "Email",
           hintStyle: textTheme.bodyText1,
         ),
         validator: (value) =>
-            state.isValidUsername ? null : 'Username is too short',
+            state.isValidEmail ? null : 'Username is too short',
         onChanged: (value) => context
             .read<LoginBloc>()
             .add(LoginUsernameChanged(username: value)),

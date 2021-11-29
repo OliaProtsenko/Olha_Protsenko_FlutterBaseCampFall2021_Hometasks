@@ -1,7 +1,7 @@
 import 'package:campnotes/session/session_cubit.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'UserModel.dart';
 
 enum AuthState { login, signUp, confirmSignUp }
 
@@ -17,6 +17,6 @@ class AuthCubit extends Cubit<AuthState> {
   void showSignUp() => emit(AuthState.signUp);
 
 
-  void launchSession(UserModel authCredentials) =>
+  void launchSession(User authCredentials) =>
       sessionCubit.showSession(authCredentials);
 }
