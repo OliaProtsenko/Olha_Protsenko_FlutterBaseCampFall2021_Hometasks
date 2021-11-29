@@ -7,7 +7,7 @@ class SignUpState {
 
   final String email;
 
-  bool get isValidEmail => email.contains('@');
+  bool get isValidEmail => RegExp(r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+").hasMatch(email);
 
   final String password;
 

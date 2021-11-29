@@ -1,4 +1,3 @@
-import 'package:campnotes/auth/UserModel.dart';
 import 'package:campnotes/auth/auth_cubit.dart';
 import 'package:campnotes/auth/auth_repository.dart';
 import 'package:campnotes/auth/login/login_event.dart';
@@ -21,15 +20,12 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
     } else if (event is LoginSubmitted) {
       yield state.copyWith(formStatus: FormSubmitting());
       try {
-        final userId = await authRepo.login(
-          username: state.username,
+        final user = await authRepo.login(
+          email: state.email,
           password: state.password,
         );
         yield state.copyWith(formStatus: SubmissionSuccess());
-        final user = UserModel(
-          username: state.username,
-          userId: userId,
-        );
+
         authCubit.launchSession(user);
       } catch (e) {
         yield state.copyWith(formStatus: SubmissionFailed(e));

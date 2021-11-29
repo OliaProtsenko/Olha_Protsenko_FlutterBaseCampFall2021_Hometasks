@@ -30,6 +30,8 @@ dependencies:
   provider: ^6.0.0
   sqflite:
   path_provider:
+  firebase_auth: ^3.2.0
+  firebase_core: ^1.10.0
   todos_app_core:
     path: packages/todos_app_core/
 

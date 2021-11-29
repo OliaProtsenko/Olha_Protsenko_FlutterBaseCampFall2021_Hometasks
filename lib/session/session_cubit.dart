@@ -1,6 +1,6 @@
-import 'package:campnotes/auth/UserModel.dart';
 import 'package:campnotes/auth/auth_repository.dart';
 import 'package:campnotes/session/session_state.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class SessionCubit extends Cubit<SessionState> {
@@ -12,20 +12,20 @@ class SessionCubit extends Cubit<SessionState> {
 
   void attemptAutoLogin() async {
     try {
-      final userId = await authRepo.attemptAutoLogin();
-      // final user = dataRepo.getUser(userId);
-      final user = userId;
-      emit(Authenticated(user: user));
-    } on Exception {
-      emit(Unauthenticated());
+      final user = await authRepo.attemptAutoLogin();
+
+      print(user);
+      (user != null) ? emit(Authenticated(user: user)) : emit(
+          Unauthenticated());
+    } on Exception catch (e) {
+      print(e.toString());
     }
   }
 
   void showAuth() => emit(Unauthenticated());
 
-  void showSession(UserModel userCredentials) {
-    // final user = dataRepo.getUser(credentials.userId);
-    final user = userCredentials.username;
+  void showSession(User userCredentials) {
+    final user = userCredentials.displayName;
     emit(Authenticated(user: user));
   }
 

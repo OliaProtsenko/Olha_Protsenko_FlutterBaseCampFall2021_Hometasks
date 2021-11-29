@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893706023288",
+    "project_id": "todosbasecamp",
+    "storage_bucket": "todosbasecamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893706023288:android:68bf2fa1483074c958588d",
+        "android_client_info": {
+          "package_name": "com.example.campnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893706023288-tf47uab1pvmo48229f45upsftk6k9eeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjrELyhjTRChPYGs8z9zbY55G_1PfmYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893706023288-tf47uab1pvmo48229f45upsftk6k9eeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

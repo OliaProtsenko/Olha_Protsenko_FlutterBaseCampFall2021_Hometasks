@@ -82,7 +82,7 @@ class SignUpScreen extends StatelessWidget {
           hintText: 'Email',
           hintStyle: textTheme.bodyText1,
         ),
-        validator: (value) => state.isValidUsername ? null : 'Invalid email',
+        validator: (value) => state.isValidEmail ? null : 'Invalid email',
         onChanged: (value) => context.read<SignUpBloc>().add(
               SignUpEmailChanged(email: value),
             ),

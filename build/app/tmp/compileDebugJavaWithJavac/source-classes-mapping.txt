@@ -1,4 +1,4 @@
-com/example/lecture_1/BuildConfig.java
- com.example.lecture_1.BuildConfig
 io/flutter/plugins/GeneratedPluginRegistrant.java
  io.flutter.plugins.GeneratedPluginRegistrant
+com/example/campnotes/BuildConfig.java
+ com.example.campnotes.BuildConfig
