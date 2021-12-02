@@ -14,7 +14,7 @@ class SessionCubit extends Cubit<SessionState> {
     try {
       final user = await authRepo.attemptAutoLogin();
 
-      print(user);
+
       (user != null) ? emit(Authenticated(user: user)) : emit(
           Unauthenticated());
     } on Exception catch (e) {

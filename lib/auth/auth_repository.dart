@@ -3,23 +3,19 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 
-
 class AuthRepository {
+  final FirebaseAuth _auth; // = FirebaseAuth.instance;
 
-
-  final FirebaseAuth _auth = FirebaseAuth.instance;
-
+  AuthRepository(this._auth);
 
   Future<String> attemptAutoLogin() async {
     var _subscription = FirebaseAuth.instance.userChanges().listen((User user) {
       if (user != null) {
         return user.displayName;
-      }
-      else {
+      } else {
         return null;
       }
     });
-
   }
 
   Future<User> login({
@@ -29,8 +25,12 @@ class AuthRepository {
     try {
       UserCredential result = await _auth.signInWithEmailAndPassword(
           email: email, password: password);
-      User user = result.user;
-      return user;
+
+      if (result != null) {
+        User user = result.user;
+        return user;
+      }
+      return null;
     } on FirebaseAuthException catch (e) {
       if (e.code == 'user-not-found') {
         print('No user found for that email.');
@@ -49,8 +49,9 @@ class AuthRepository {
       UserCredential result = await _auth.createUserWithEmailAndPassword(
           email: email, password: password);
       await result.user?.updateDisplayName(username);
-      User user = result.user;
-      return user;
+    if(result!=null)
+     { User user = result.user;
+      return user;}
     } on FirebaseAuthException catch (e) {
       if (e.code == 'weak-password') {
         print('The password provided is too weak.');
@@ -62,13 +63,13 @@ class AuthRepository {
     }
   }
 
-
-  Future<void> signOut() async {
+  Future<bool> signOut() async {
     try {
-      return await _auth.signOut();
+       await _auth.signOut();
+       return true;
     } catch (error) {
       print(error.toString());
-      return null;
+      return false;
     }
   }
 }
