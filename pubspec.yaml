@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+
   flutter:
     sdk: flutter
   meta: ^1.1.8
@@ -34,11 +35,18 @@ dependencies:
   firebase_core: ^1.10.0
   todos_app_core:
     path: packages/todos_app_core/
+  rxdart: ^0.27.3
 
 dependency_overrides:
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+  test: ^1.5.1
+  mockito: ^4.1.1
+  integration_test:
+    sdk: flutter
+  flutter_driver:
     sdk: flutter
   floor_generator: ^1.1.0
   build_runner: ^2.0.4

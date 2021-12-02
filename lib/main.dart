@@ -1,5 +1,7 @@
+import 'package:campnotes/auth/auth_repository.dart';
 import 'package:campnotes/session/session_cubit.dart';
 import 'package:campnotes/session/session_navigator.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -8,7 +10,7 @@ import 'package:todos_app_core/todos_app_core.dart';
 import 'package:campnotes/localization.dart';
 import 'package:campnotes/screens/screens.dart';
 
-import 'auth/auth_repository.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -31,7 +33,7 @@ class TodosApp extends StatelessWidget {
       routes: {
         ArchSampleRoutes.home: (context) {
           return RepositoryProvider(
-            create: (context) => AuthRepository(),
+            create: (context) => AuthRepository(FirebaseAuth.instance),
             child: BlocProvider(
                 create: (context) =>
                     SessionCubit(authRepo: context.read<AuthRepository>()),

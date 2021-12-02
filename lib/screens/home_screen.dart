@@ -5,7 +5,7 @@ import 'package:campnotes/widgets/widgets.dart';
 import 'package:campnotes/localization.dart';
 
 class HomeScreen extends StatelessWidget {
-  Map<TabItem, GlobalKey<NavigatorState>> navigatorKeys = {
+   final Map<TabItem, GlobalKey<NavigatorState>> navigatorKeys = {
     TabItem.work: GlobalKey<NavigatorState>(),
     TabItem.home: GlobalKey<NavigatorState>(),
     TabItem.leisure: GlobalKey<NavigatorState>(),
