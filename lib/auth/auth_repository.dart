@@ -11,7 +11,7 @@ class AuthRepository {
   Future<String> attemptAutoLogin() async {
     var _subscription = FirebaseAuth.instance.userChanges().listen((User user) {
       if (user != null) {
-        return user.displayName;
+        return user.email;
       } else {
         return null;
       }
@@ -49,9 +49,10 @@ class AuthRepository {
       UserCredential result = await _auth.createUserWithEmailAndPassword(
           email: email, password: password);
       await result.user?.updateDisplayName(username);
-    if(result!=null)
-     { User user = result.user;
-      return user;}
+      if (result != null) {
+        User user = result.user;
+        return user;
+      }
     } on FirebaseAuthException catch (e) {
       if (e.code == 'weak-password') {
         print('The password provided is too weak.');
@@ -65,8 +66,8 @@ class AuthRepository {
 
   Future<bool> signOut() async {
     try {
-       await _auth.signOut();
-       return true;
+      await _auth.signOut();
+      return true;
     } catch (error) {
       print(error.toString());
       return false;

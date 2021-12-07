@@ -37,7 +37,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
 
     return Container(
       padding: const EdgeInsets.fromLTRB(15.0, 10.0, 15.0, 0.0),
-      child: Column(children: <Widget>[
+      child: ListView(children: <Widget>[
         Container(
             height: 100,
             child: Text(widget.todos[int.parse(widget.id)].task,

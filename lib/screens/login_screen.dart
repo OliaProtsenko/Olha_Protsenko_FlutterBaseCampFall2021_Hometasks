@@ -4,7 +4,6 @@ import 'package:campnotes/auth/form_submission_status.dart';
 import 'package:campnotes/auth/login/login_bloc.dart';
 import 'package:campnotes/auth/login/login_event.dart';
 import 'package:campnotes/auth/login/login_state.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -20,10 +19,14 @@ class LoginScreen extends StatelessWidget {
         authRepo: context.read<AuthRepository>(),
         authCubit: context.read<AuthCubit>(),
       ),
-      child: Stack(alignment: Alignment.bottomCenter, children: [
-        _loginForm(textTheme),
-        _showSignUpButton(context),
-      ]),
+      child: Center(
+        child: SingleChildScrollView(
+          child: Column(children: [
+            _loginForm(textTheme),
+            _showSignUpButton(context),
+          ]),
+        ),
+      ),
     ));
   }
 
@@ -94,12 +97,10 @@ class LoginScreen extends StatelessWidget {
 
   Widget _showSignUpButton(BuildContext context) {
     final theme = Theme.of(context);
-    return SafeArea(
-      child: TextButton(
-        child: Text('Don\'t have an account? Sign up.',
-            style: theme.textTheme.bodyText2),
-        onPressed: () => context.read<AuthCubit>().showSignUp(),
-      ),
+    return TextButton(
+      child: Text('Don\'t have an account? Sign up.',
+          style: theme.textTheme.bodyText2),
+      onPressed: () => context.read<AuthCubit>().showSignUp(),
     );
   }
 

@@ -39,6 +39,7 @@ class _TabBarItemState extends State<TabBarItem>
                   return FilteredTodos(widget.tab);
                 });
               }
+
               if (routeName == '/details') {
                 final String todoIndex = settings.arguments;
 
@@ -46,7 +47,9 @@ class _TabBarItemState extends State<TabBarItem>
                   settings: settings,
                   builder: (_) {
                     return DetailsScreen(widget.tab, id: todoIndex);
+
                   },
+
                 );
               }
 

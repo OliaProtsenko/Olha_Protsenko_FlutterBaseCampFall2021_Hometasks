@@ -19,12 +19,15 @@ class SignUpScreen extends StatelessWidget {
           authRepo: context.read<AuthRepository>(),
           authCubit: context.read<AuthCubit>(),
         ),
-        child: Stack(
-          alignment: Alignment.bottomCenter,
-          children: [
-            _signUpForm(),
-            _showLoginButton(context),
-          ],
+        child: Center(
+          child: SingleChildScrollView(
+            child: Column(
+              children: [
+                _signUpForm(),
+                _showLoginButton(context),
+              ],
+            ),
+          ),
         ),
       ),
     );
@@ -131,12 +134,10 @@ class SignUpScreen extends StatelessWidget {
 
   Widget _showLoginButton(BuildContext context) {
     final theme = Theme.of(context);
-    return SafeArea(
-      child: TextButton(
-        child: Text('Already have an account? Sign in.',
-            style: theme.textTheme.bodyText2),
-        onPressed: () => context.read<AuthCubit>().showLogin(),
-      ),
+    return TextButton(
+      child: Text('Already have an account? Sign in.',
+          style: theme.textTheme.bodyText2),
+      onPressed: () => context.read<AuthCubit>().showLogin(),
     );
   }
 
