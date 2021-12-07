@@ -36,6 +36,7 @@ dependencies:
   todos_app_core:
     path: packages/todos_app_core/
   rxdart: ^0.27.3
+  integration_test: ^1.0.2+3
 
 dependency_overrides:
 
@@ -44,8 +45,6 @@ dev_dependencies:
     sdk: flutter
   test: ^1.5.1
   mockito: ^4.1.1
-  integration_test:
-    sdk: flutter
   flutter_driver:
     sdk: flutter
   floor_generator: ^1.1.0

@@ -41,7 +41,7 @@ class _AddEditScreenState extends State<AddEditScreen> {
         padding: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
         child: Form(
           key: _formKey,
-          child: Column(
+          child: ListView(
             children: <Widget>[
               TextFormField(
                 onSaved: (String value) {
